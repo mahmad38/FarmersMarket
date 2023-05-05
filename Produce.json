@@ -2,7 +2,7 @@
 {
   "Produce":
   [
-    {"ItemName":"Difficult","ItemDes":"2521 ft","ItemPrice":"1","ItemImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg","ItemWeight":"8.0 mi","ItemRate":"Old Rag Mountain","ItemWeb":"https://www.hikingupward.com/snp/oldrag/"}, 
+    {"ItemName":"Fuji Apples","ItemDes":"Fuji apples from the farmers market are a crisp and sweet variety with a juicy, firm texture. They have a yellow-green skin with red blushes and are known for their excellent storage qualities. These apples are versatile and can be enjoyed fresh or used in a variety of recipes.","ItemPrice":"$10","ItemImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg","ItemWeight":"2 lbs","ItemRate":"4.9 Stars","ItemWeb":"https://shop.sprouts.com/product/44271/fuji-apple"}, 
     {"ItemName":"Difficult","ItemDes":"2452 ft","ItemPrice":"2","ItemImage":"http://www.protogic.com/images/White_Oak.jpg","ItemWeight":"7.9 mi","ItemRate":"White Oak Canyon \/ Cedar Run","ItemWeb":"https://www.hikingupward.com/SNP/WhiteOakCedarRun/"}, 
     {"ItemName":"Strenuous","ItemDes":"2240 ft","ItemPrice":"3","ItemImage":"http://www.protogic.com/images/Strickler_Knob.jpg","ItemWeight":"9.1 mi","ItemRate":"Strickler Knob","ItemWeb":"https://www.hikingupward.com/GWNF/StricklerKnob/"}, 
     {"ItemName":"Easy","ItemDes":"1380 ft","ItemPrice":"4","ItemImage":"http://www.protogic.com/images/Crabtree_Falls.jpg","ItemWeight":"4.4 mi","ItemRate":"Crabtree Falls","ItemWeb":"https://www.hikingupward.com/GWNF/CrabtreeFalls/"}, 

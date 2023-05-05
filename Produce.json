@@ -12,5 +12,6 @@
     {"ItemName":"Moderate​","ItemDes":"1480 ft","ItemPrice":8,"ItemImage":"http://www.protogic.com/images/Little_Devis.jpg","ItemWeight":"4.0 mi","ItemRate":"Little Devils Stairs","ItemWeb":"https://www.hikingupward.com/SNP/LittleDevilsStairs/"},
      {"ItemName":"Easy","ItemDes":"1035 ft","ItemPrice":9,"ItemImage":"http://www.protogic.com/images/Big_Schloss.jpg","ItemWeight":"4.1 mi","ItemRate":"Big Schloss","ItemWeb":"https://www.hikingupward.com/GWNF/BigSchloss/"},
     {"ItemName":"Strenuous","ItemDes":"3960 ft","ItemPrice":10,"ItemImage":"http://www.protogic.com/images/Three_Ridges.jpg","ItemWeight":"14.4 mi","ItemRate":"Three Ridges","ItemWeb":"https://www.hikingupward.com/GWNF/ThreeRidges/"},
+    ],
   "Status":"OK"
 }

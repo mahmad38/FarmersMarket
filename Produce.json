@@ -20,7 +20,7 @@
     
      {"ItemName":"Cantaloupe","ItemDes":"Cantaloupe is a popular summer fruit with a sweet, juicy flavor and a soft, orange flesh. Our cantaloupes are locally grown and picked at peak ripeness, ensuring maximum flavor and freshness for our customers at the farmers market.","ItemPrice":"$3.50","ItemImage":"https://raw.githubusercontent.com/mahmad38/FarmersMarket/main/cantaloupe.jpeg","ItemWeight":"1 ct","ItemRate":"2.75 Stars","ItemWeb":"https://shop.sprouts.com/product/7084/cantaloupe"},
     
-    {"ItemName":"Blueberries","ItemDes":"Blueberries are a delicious and nutritious fruit that are a popular choice for farmers markets. These small, round berries are known for their sweet and tangy flavor, and are packed with antioxidants and vitamins.","ItemPrice":"$5.99","ItemImage":"https://raw.githubusercontent.com/mahmad38/FarmersMarket/main/blueberry.jpeg","ItemWeight":"12 oz","ItemRate":"4.9 Stars","ItemWeb":"https://shop.sprouts.com/product/8958/organic-blueberries"},
+    {"ItemName":"Blueberries","ItemDes":"Blueberries are a delicious and nutritious fruit that are a popular choice for farmers markets. These small, round berries are known for their sweet and tangy flavor, and are packed with antioxidants and vitamins.","ItemPrice":"$5.90","ItemImage":"https://raw.githubusercontent.com/mahmad38/FarmersMarket/main/blueberry.jpeg","ItemWeight":"12 oz","ItemRate":"4.9 Stars","ItemWeb":"https://shop.sprouts.com/product/8958/organic-blueberries"},
     
     ],
   "Status":"OK"

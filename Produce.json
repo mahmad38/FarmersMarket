@@ -2,7 +2,7 @@
 {
   "Produce":
   [
-    {"ItemName":"Fuji Apples","ItemDes":"Fuji apples from the farmers market are a crisp and sweet variety with a juicy, firm texture. They have a yellow-green skin with red blushes and are known for their excellent storage qualities. These apples are versatile and can be enjoyed fresh or used in a variety of recipes.","ItemPrice":"$3.58","ItemImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg","ItemWeight":"2 lbs","ItemRate":"4.9 Stars","ItemWeb":"https://shop.sprouts.com/product/44271/fuji-apple"}, 
+    {"ItemName":"Fuji Apples","ItemDes":"Fuji apples from the farmers market are a crisp and sweet variety with a juicy, firm texture. They have a yellow-green skin with red blushes and are known for their excellent storage qualities. These apples are versatile and can be enjoyed fresh or used in a variety of recipes.","ItemPrice":"$3.58","ItemImage":"https://raw.githubusercontent.com/mahmad38/FarmersMarket/main/apple.jpg","ItemWeight":"2 lbs","ItemRate":"4.9 Stars","ItemWeb":"https://shop.sprouts.com/product/44271/fuji-apple"}, 
     
     {"ItemName":"Strawberries","ItemDes":"Our farm-fresh strawberries are plump, juicy, and bursting with flavor. Straight from the field to the market, our strawberries are hand-picked at the peak of ripeness for the ultimate sweet and tangy taste.","ItemPrice":"$2.50","ItemImage":"https://raw.githubusercontent.com/mahmad38/FarmersMarket/main/strawberry.jpg","ItemWeight":"1 lb","ItemRate":"4 Stars","ItemWeb":"https://shop.sprouts.com/product/7065/strawberries"}, 
     
